@@ -1,0 +1,7 @@
+#pingPongGame {
+    border-radius: 10px;
+}
+.canvas-container {
+    margin: auto;
+    width: fit-content;
+}
